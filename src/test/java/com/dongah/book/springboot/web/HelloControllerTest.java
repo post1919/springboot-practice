@@ -1,6 +1,5 @@
-package com.dongah.book.springboot;
+package com.dongah.book.springboot.web;
 
-import com.dongah.book.springboot.web.HelloController;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
