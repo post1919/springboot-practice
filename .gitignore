@@ -3,4 +3,6 @@
 
 settings.gradle
 
-/build/
+/build
+
+application-oauth.properties
